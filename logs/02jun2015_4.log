@@ -1,0 +1,25 @@
+#source with noise diode cycles
+02 jun 2015 IST 02jun2015_4 1390
+15 53 45 crab on contm off start 1390
+15 59 26 crab on contm off stop 1390
+16 00 09 crab on contm ehi start 1390
+16 05 33 crab on contm ehi stop 1390
+16 06 11 crab on contm hi start 1390
+16 11 07 crab on contm hi stop 1390
+16 11 48 crab on contm med start 1390
+16 16 53 crab on contm med stop 1390
+16 17 39 crab on contm low start 1390
+16 22 45 crab on contm low stop 1390
+16 27 35 crab off contm off start 1390
+16 32 49 crab off contm off stop 1390
+16 33 32 crab off contm ehi start 1390
+16 38 41 crab off contm ehi stop 1390
+16 39 15 crab off contm hi start 1390
+16 44 22 crab off contm hi stop 1390
+16 45 02 crab off contm med start 1390
+16 50 41 crab off contm med stop 1390
+16 51 12 crab off contm low start 1390
+16 56 17 crab off contm low stop 1390
+16 56 59 crab off contm off start 1390
+17 02 22 crab off contm off stop 1390
+
